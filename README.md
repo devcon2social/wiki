@@ -1,1 +1,1 @@
-Check out the [wiki](https://devcon2social.github.io/)!
+Check out the [actual wiki here](https://devcon2social.github.io/)!
